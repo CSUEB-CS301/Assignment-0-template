@@ -7,5 +7,5 @@ TEST_CASE("The ultimate answer") {
 }
 
 TEST_CASE("Should return 'Hello, World!'") {
-    REQUIRE(hello() == "Hello, What!");
+    REQUIRE(hello() == "Hello, World!");
 }
