@@ -3,3 +3,6 @@ This assignment will help you familiarize yourself with github classroom and how
 
 ## Notes
 You should provide any information related to your project here.
+
+###
+Credit: Paul Raupach for creating this template.
